@@ -1,6 +1,8 @@
 # Maurits
 data/
 models/
+output/
+links/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
