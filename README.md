@@ -1,2 +1,2 @@
 # Flow
-Collection of normalising flow experiments
+Collection of normalising flow tutorials and tests
